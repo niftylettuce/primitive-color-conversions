@@ -1,0 +1,30 @@
+{
+  "name": "primitive-color-conversions",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Heather Arthur <fayearthur@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/niftylettuce/primitive-color-conversions/issues",
+    "email": "niftylettuce@gmail.com"
+  },
+  "contributors": [
+    "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)"
+  ],
+  "dependencies": {
+    "color-name": "^1.1.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/niftylettuce/primitive-color-conversions",
+  "keywords": [
+    "primitive-color-conversions",
+    "lass"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niftylettuce/primitive-color-conversions"
+  }
+}
